@@ -54,7 +54,7 @@ vim
 ```bash
 vim /etc/hosts
 ```
-2. Al pulsar la tecla ```i``` entramos en el modo Isercción pero nos va a dar un error ya que el fichero es de solo lectura ya que solo root puede editarlo
+2. Al pulsar la tecla ```i``` entramos en el modo insercción pero nos va a dar un error ya que el fichero es de solo lectura ya que solo root puede editarlo
 ```bash
 W10: Warning: Changing a readonly file
 ```
@@ -63,3 +63,55 @@ W10: Warning: Changing a readonly file
 4. Para forzar la salida debemos pulsar ```ESC``` y después ```:q!```
 
 
+## Realizaer cambios a un fichero
+
+1. Vamos a copiar la documentación de Vim a nuestra carpeta para tener un fichero con texto
+
+```bash
+cp /usr/share/vim/vim80/doc/help.txt ~/vimhelp.txt
+```
+**NOTA:** El directorio vim80 puede no existir lo recomendable es que escribas ```bash cp /usr/share/vim/vim #Aqui dale a la tecla TAB para que te lo autocomplete``` luego rellena el resto de la ruta /doc/help.txt
+
+2. Editamos el fichero escribiendo:
+
+```bash
+vim ~/vimhelp.txt
+``` 
+3. Nos movemos hasta el texto **VIM - main help file**
+
+**NOTA:**Para movernos por el fichero tenemos dos formas de hacerlo, más abajo tenmos mas formas de movernos por nuestro fichero agilmente.
+
+	1. Con los cursores / flechas del teclado
+	2. En caso de que nuestro teclado no disponga de las teclas cursores n os podemos mover con las teclas ```h``` ```j``` ```k``` ```l```
+	```bash
+	#RECUERDA:para movernos por el texto debemos estar en el modo comando por lo que debes pulsar la tecla ESC 
+
+	h -->  nos movemos a la izquierda
+	j -->  nos movemos hacia abajo
+	k -->  nos movemos hacia arriba
+	l -->  nos movemos hacia la izquierda
+	```
+
+4. Cambiamos la palabra VIM a Vim para ello colacomas el curso en la letra i y pulsamos ```cw``` para cambiar el resto de la palabra **im**
+**NOTA:** La tecla ```c``` en modo comando nos sirve para hacer cambios por lo que nos quita la letra, palabra o linea depende de como lo mandemos y se pasa a modo inserción para poder escribir directamente.
+
+5. Ahora pulsa ta tecla ```ESC``` para salir del modo comando
+6. Ahora muevete hasta la letra i y pulsa 2 veces la tecla ~ 
+**NOTA:** La tecla ~ en modo comando nos cambia la letra donde este el curso de Mayúscula a Minúscula y de Minúscula a Mayúscula 
+7. Ahora navega hasta la letra h de la palabra help y pulsa 3 veces la tecla ~ covirtiendo de este modo la palabra help a mayúsculas
+8. Pulsa la tecla ```ESC``` para asegurarte que vuelves al modo comando
+9. Guardamos y salimos pulsando:
+```bash
+:wq
+```
+
+## Movernos por nuestro fichero agilmente
+
+1. Editamos nuestra copia del fichero **vimhelp.txt**
+```bash
+vim ~/vimhelp.txt 
+```
+2. Para ir al final del fichero pulsamos ```G```
+3. Subir al principio del fichero pulsamos ```gg```
+4. Para movernos a la linea 15 podemos hacerlo pulsando  ```15G``` o ```:15```
+ 
