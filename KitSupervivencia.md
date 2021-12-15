@@ -63,7 +63,7 @@ W10: Warning: Changing a readonly file
 4. Para forzar la salida debemos pulsar ```ESC``` y después ```:q!```
 
 
-## Realizaer cambios a un fichero
+## Realizar cambios a un fichero
 
 1. Vamos a copiar la documentación de Vim a nuestra carpeta para tener un fichero con texto
 
@@ -84,13 +84,13 @@ vim ~/vimhelp.txt
 	1. Con los cursores / flechas del teclado
 	2. En caso de que nuestro teclado no disponga de las teclas cursores n os podemos mover con las teclas ```h``` ```j``` ```k``` ```l```
 	```bash
-	#RECUERDA:para movernos por el texto debemos estar en el modo comando por lo que debes pulsar la tecla ESC 
-
 	h -->  nos movemos a la izquierda
 	j -->  nos movemos hacia abajo
 	k -->  nos movemos hacia arriba
 	l -->  nos movemos hacia la izquierda
 	```
+
+	#RECUERDA:para movernos por el texto debemos estar en el modo comando por lo que debes pulsar la tecla ESC 
 
 4. Cambiamos la palabra VIM a Vim para ello colacomas el curso en la letra i y pulsamos ```cw``` para cambiar el resto de la palabra **im**
 **NOTA:** La tecla ```c``` en modo comando nos sirve para hacer cambios por lo que nos quita la letra, palabra o linea depende de como lo mandemos y se pasa a modo inserción para poder escribir directamente.
