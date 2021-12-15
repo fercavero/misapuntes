@@ -1,7 +1,7 @@
 # Laboratorio Sobrevieviendo a VIM
 
 ## ¿Eres nuevo en VIM? Relajate, Con este laboratorio yo te voy a ayudar. 
-No te preocupes con este pequeño manual podrás realizar todas las acciones que realizas en cualquier editor de texto, pero con una gran ventaja, no vas a necesitar el ratón para nada ;)
+No te preocupes con este pequeño manual podrás realizar todas las acciones que realizas en cualquier editor de texto, pero con una gran ventaja, no vas a necesitar el ratón para nada :wink:
 
 Ahora si abre tu terminal y preparate para disfrutar del siguiente laboratorio.
 He creado el laboratorio para ir viendo paso a paso las diferentes secciones que veremos en el curso.
@@ -12,7 +12,7 @@ Si en cualquier momento te lias y no sabes conocer en evolver al punto anterior,
 
 Eres un administrador de sistemas y te encuentras que en tu nueva empresa todos los sistemas linux solo tienen instalado el editor VIM por lo que vas a necesitar aprender a usarlo si o si, no hay otra solución si no quieres el despido inmediato.
 
-No te queda otra que sentarte delante de este laboratorio para obtener las habilidades necesarias usando el editor Vim y evitar que te despidan por algo tan sencillo ;)
+No te queda otra que sentarte delante de este laboratorio para obtener las habilidades necesarias usando el editor Vim y evitar que te despidan por algo tan sencillo :wink:
 
 Te aseguro que una vez finalices este laboratorio tendrás los conocimientos necesarios para evitar ese despido. Asi que vamos al turrón...
 
