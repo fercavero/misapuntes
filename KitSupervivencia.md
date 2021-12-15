@@ -6,11 +6,11 @@ No te preocupes con este pequeño manual podrás realizar todas las acciones que
 Ahora sí, abre tu terminal y preparate para disfrutar del siguiente laboratorio.
 He creado el laboratorio para ir viendo paso a paso las diferentes secciones que veremos en el curso.
 
-Si en cualquier momento te lias y no sabes como volver al punto anterior, no entres en **pánico** siempre puedes volver atrás pulsando la tecla ```ESC``` varias veces y pulsando luego la tecla ```u``` que significa **undo** en español deshacer jejeje, o si lo prefieres puedes cerrar el fichero sin guardar los cambios pulsando la tecla ```ESC``` y luego ```:q!```
+Si en cualquier momento te lias y no sabes como volver al punto anterior, no entres en **pánico** siempre puedes volver atrás pulsando la tecla ```ESC``` varias veces y pulsando luego la tecla ```u``` que significa **undo**, en español deshacer jejeje, o si lo prefieres puedes cerrar el fichero sin guardar los cambios pulsando la tecla ```ESC``` y luego ```:q!```
 
 ## Escenario planteado
 
-Eres un administrador de sistemas y te encuentras que en tu nueva empresa todos los sistemas linux solo tienen instalado el editor VIM por lo que vas a necesitar aprender a usarlo si o si, no hay otra solución si no quieres el despido inmediato.
+Eres un administrador de sistemas y te encuentras que en tu nueva empresa todos los sistemas linux solo tienen instalado el editor ***VIM*** por lo que vas a necesitar aprender a usarlo si o si, no hay otra solución si no quieres el despido inmediato :laughing: .
 
 No te queda otra que sentarte delante de este laboratorio para obtener las habilidades necesarias usando el editor Vim y evitar que te despidan por algo tan sencillo :wink:
 
