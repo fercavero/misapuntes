@@ -1,6 +1,6 @@
 # Laboratorio Sobrevieviendo a VIM
 
-## ¿Eres nuevo en VIM? Relajate, Con este laboratorio yo te voy a ayudar. 
+## ¿Eres nuevo en VIM? Relajate, Con este laboratorio vas a subir más de un nivel. 
 No te preocupes con este pequeño manual podrás realizar todas las acciones que realizas en cualquier editor de texto, pero con una gran ventaja, no vas a necesitar el ratón para nada :wink:
 
 Ahora si abre tu terminal y preparate para disfrutar del siguiente laboratorio.
