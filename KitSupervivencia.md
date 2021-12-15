@@ -70,7 +70,12 @@ W10: Warning: Changing a readonly file
 ```bash
 cp /usr/share/vim/vim80/doc/help.txt ~/vimhelp.txt
 ```
-**NOTA:** El directorio vim80 puede no existir lo recomendable es que escribas ```bash cp /usr/share/vim/vim #Aqui dale a la tecla TAB para que te lo autocomplete``` luego rellena el resto de la ruta /doc/help.txt
+**NOTA:** El directorio vim80 puede no existir lo recomendable es que escribas 
+```bash 
+cp /usr/share/vim/vim #Aqui dale a la tecla TAB para que te lo autocomplete
+``` 
+Luego rellena el resto de la ruta /doc/help.txt
+
 
 2. Editamos el fichero escribiendo:
 
