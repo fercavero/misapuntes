@@ -6,7 +6,7 @@ No te preocupes con este pequeño manual podrás realizar todas las acciones que
 Ahora si abre tu terminal y preparate para disfrutar del siguiente laboratorio.
 He creado el laboratorio para ir viendo paso a paso las diferentes secciones que veremos en el curso.
 
-Si en cualquier momento te lias y no sabes conocer en evolver al punto anterior, no entres en **pánico** siempre puedes volver atrás pulsando la tecla ```**ESC**``` varias veces y pulsando luego la tecla ```**u**``` que significa **undo** en español deshacer, jejeje o si lo prefieres puedes cerrar el fichero sin guardar los cambios pulsando ```**:q!**```
+Si en cualquier momento te lias y no sabes conocer en evolver al punto anterior, no entres en **pánico** siempre puedes volver atrás pulsando la tecla ```ESC``` varias veces y pulsando luego la tecla ```u``` que significa **undo** en español deshacer, jejeje o si lo prefieres puedes cerrar el fichero sin guardar los cambios pulsando ```:q!```
 
 ## Escenario planteado
 
@@ -26,9 +26,9 @@ Te aseguro que una vez finalices este laboratorio tendrás los conocimientos nec
 vim
 ```
 
-2. Ahora nos toca insertar texto en el fichero asi que pulsa la tecla ```**i**``` verás que en la parte abajo a la izquierda has cambiado al **Modo Insertar**. Escribe ahora el texto que quieras tener en este fichero.
+2. Ahora nos toca insertar texto en el fichero asi que pulsa la tecla ```i``` verás que en la parte abajo a la izquierda has cambiado al **Modo Insertar**. Escribe ahora el texto que quieras tener en este fichero.
 
-3. Una vez que tengas todo el texto escrito pulsa la tecla ```**ESC**``` para volver al **Modo Comando**
+3. Una vez que tengas todo el texto escrito pulsa la tecla ```ESC``` para volver al **Modo Comando**
 4. Ahora nos toca guardarlo y salir de vim para guardar el fichero en disco con el nombre 'mifichero.txt' escribiremos lo siguiente:
 ```bash
 :w mifichero.txt
