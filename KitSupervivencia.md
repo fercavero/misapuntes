@@ -20,23 +20,23 @@ Te aseguro que una vez finalices este laboratorio tendrás los conocimientos nec
 
 ## Crear y guardar un fichero con Vim
 
-- Abrir Vim:
+1. Abrir Vim:
 
 ```bash
 vim
 ```
 
-- Ahora nos toca insertar texto en el fichero asi que pulsa la tecla ```**i**``` verás que en la parte abajo a la izquierda has cambiado al **Modo Insertar**. Escribe ahora el texto que quieras tener en este fichero.
+2. Ahora nos toca insertar texto en el fichero asi que pulsa la tecla ```**i**``` verás que en la parte abajo a la izquierda has cambiado al **Modo Insertar**. Escribe ahora el texto que quieras tener en este fichero.
 
-- Una vez que tengas todo el texto escrito pulsa la tecla ```**ESC**``` para volver al **Modo Comando**
-- Ahora nos toca guardarlo y salir de vim para guardar el fichero en disco con el nombre 'mifichero.txt' escribiremos lo siguiente:
+3. Una vez que tengas todo el texto escrito pulsa la tecla ```**ESC**``` para volver al **Modo Comando**
+4. Ahora nos toca guardarlo y salir de vim para guardar el fichero en disco con el nombre 'mifichero.txt' escribiremos lo siguiente:
 ```bash
 :w mifichero.txt
 
 #La 'w' significa write
 ```
 
-- Ahora queremos cerrar vim para ello pulsamos:
+5. Ahora queremos cerrar vim para ello pulsamos:
 ```bash
 :q
 
@@ -50,16 +50,16 @@ vim
 
 ## Editar un fichero y salir sin guardar cambios
 
-- Editar el fichero ```/etc/hosts ```
+1. Editar el fichero ```/etc/hosts ```
 ```bash
 vim /etc/hosts
 ```
-- Al pulsar la tecla ```i``` entramos en el modo Isercción pero nos va a dar un error ya que el fichero es de solo lectura ya que solo root puede editarlo
+2. Al pulsar la tecla ```i``` entramos en el modo Isercción pero nos va a dar un error ya que el fichero es de solo lectura ya que solo root puede editarlo
 ```bash
 W10: Warning: Changing a readonly file
 ```
-- Intentaremos salid salir del fichero pulsando la tecla ```ESC``` y despues la combinación de teclas ```:q``` **Este paso no funciona y no podemos salir**
+3. Intentaremos salid salir del fichero pulsando la tecla ```ESC``` y despues la combinación de teclas ```:q```  **Este paso no funciona y no podemos salir**
 
-- Para forzar la salida debemos pulsar ```ESC``` y después ```:q!```
+4. Para forzar la salida debemos pulsar ```ESC``` y después ```:q!```
 
 
