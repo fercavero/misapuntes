@@ -80,8 +80,8 @@ vim ~/vimhelp.txt
 3. Nos movemos hasta el texto **VIM - main help file**
 
 **NOTA:** Para movernos por el fichero tenemos dos formas de hacerlo, más abajo tenmos mas formas de movernos por nuestro fichero agilmente.
-1. Con los cursores / flechas del teclado
-2. En caso de que nuestro teclado no disponga de las teclas cursores n os podemos mover con las teclas 
+- Con los cursores / flechas del teclado
+- En caso de que nuestro teclado no disponga de las teclas cursores n os podemos mover con las teclas 
 
 ```h```  ```j```  ```k```  ```l```
 	
