@@ -83,13 +83,7 @@ vim ~/vimhelp.txt
 1. Con los cursores / flechas del teclado
 2. En caso de que nuestro teclado no disponga de las teclas cursores n os podemos mover con las teclas 
 
-```h``` 
-
-```j``` 
-
-```k``` 
-
-```l```
+```h```  ```j```  ```k```  ```l```
 	
 ```bash
 	h -->  nos movemos a la izquierda
