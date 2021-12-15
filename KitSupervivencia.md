@@ -1,12 +1,12 @@
 # Laboratorio Sobrevieviendo a VIM
 
-## ¿Eres nuevo en VIM? Relajate, Con este laboratorio vas a subir más de un nivel. 
+## ¿Eres nuevo en VIM? Relajate, con este laboratorio vas a subir más de un nivel. 
 No te preocupes con este pequeño manual podrás realizar todas las acciones que realizas en cualquier editor de texto, pero con una gran ventaja, no vas a necesitar el ratón para nada :wink:
 
-Ahora si abre tu terminal y preparate para disfrutar del siguiente laboratorio.
+Ahora sí, abre tu terminal y preparate para disfrutar del siguiente laboratorio.
 He creado el laboratorio para ir viendo paso a paso las diferentes secciones que veremos en el curso.
 
-Si en cualquier momento te lias y no sabes conocer en evolver al punto anterior, no entres en **pánico** siempre puedes volver atrás pulsando la tecla ```ESC``` varias veces y pulsando luego la tecla ```u``` que significa **undo** en español deshacer, jejeje o si lo prefieres puedes cerrar el fichero sin guardar los cambios pulsando ```:q!```
+Si en cualquier momento te lias y no sabes como volver al punto anterior, no entres en **pánico** siempre puedes volver atrás pulsando la tecla ```ESC``` varias veces y pulsando luego la tecla ```u``` que significa **undo** en español deshacer jejeje, o si lo prefieres puedes cerrar el fichero sin guardar los cambios pulsando la tecla ```ESC``` y luego ```:q!```
 
 ## Escenario planteado
 
