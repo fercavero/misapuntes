@@ -56,3 +56,20 @@
 | Desplázate horizontalmente en la web | Mayús + Scroll | |
 | Muévete al principio de la palabra anterior o siguiente en un campo de texto | Ctrl + flecha izquierda o Ctrl + flecha derecha | Opción + flecha izquierda o Opción + flecha derecha |
 | Borra la palabra anterior en un campo de texto | Ctrl + Retroceso | Opción + Suprimir |
+
+# Funciones de chrome
+
+| Función | Atajo Linux/Windows | Atajo Mac Os | 
+| ----------- | ----------- | ----------- |
+| Muestra u oculta la barra de marcadores | Ctrl + Shift + B | ⌘ + Mayús + B |
+| Abre el administrador de marcadores | Ctrl + Shift + O | ⌘ + Opción + B |
+| Abrir historial | Ctrl + H |  ⌘ + Y |  
+| Abre la página de Descargas | Ctrl + J |  ⌘ + Mayús +J |  
+| Abre el administrador de tareas de chrome | Shift +Esc | No tiene |
+| Alterna Barra de Direcciones, Marcadores, Pestañas | F6 | ⌘ + Opción + Arriba o Abajo | 
+| Cambia de sesion de usuario o Abrir en Incógnito | CTrl + Shift + M | ⌘ + Mayús + M | 
+| Borrar datos navegación | Ctrl + Shift + Supr | ⌘ + Mayús + Supr |
+| Abrir herramientas desarroladores | Shift + J ó F12 |  ⌘ + Opción + I | 
+| Búsqueda en la página | Ctrl + F ó F3 | ⌘ + F |
+| Avanzar en la búsqueda | Ctrl + G | ⌘ + G |  
+| Retroceder en la búsqueda | Ctrl + Shift + G | ⌘ + Mayus + G |  
