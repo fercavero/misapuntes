@@ -13,4 +13,8 @@ aws codecommit --list-repositories
 ```
 aws codecommit --get-repositories --repository-name mi_repositorio
 ```
+5. Borrar repositorio
+```
+aws codecommit --delete-repository --repository-name mi_repositorio
+```
 
