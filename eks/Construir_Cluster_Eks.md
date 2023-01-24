@@ -120,9 +120,9 @@ eksctl create cluster \
 
 A continuación muestro lo que significa cada flag
 - eksctl create cluster --> Crea un nuevo cluster en EKS.
-	- *--name mi-cluster* le damos un nombre al cluster en este caso se llamara 'mi-cluster'.
-	- --nodegroup-name mis-nodos le damos un nombre al node group.
-	- --node-type t3.small ls damos el tamaño de instancia que tendra cada nodo.
+	- ** --name mi-cluster** le damos un nombre al cluster en este caso se llamara 'mi-cluster'.
+	- ** --nodegroup-name** mis-nodos le damos un nombre al node group.
+	- ** --node-type t3.small** ls damos el tamaño de instancia que tendra cada nodo.
 	- --nodes 3 el número de nodos que se desplegaran durante el despliegue.
 	- --nodes-min 1 configuramos el número míminimo de nodos para el auto escalado group de nuestro node-group.
 	- --nodes-max 4 configuramos el número máximo de nodos que tendremos en el auto escalado.
